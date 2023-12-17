@@ -19,4 +19,3 @@ npm run start
 To run the frontend test cases -
 npm run test
 
-> > > > > > > bb675f6 (Create the boiler plate)
